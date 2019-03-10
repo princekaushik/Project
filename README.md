@@ -1,3 +1,3 @@
 # Project
-Projects
+Projects \n
 Data Science Capestone Project 
